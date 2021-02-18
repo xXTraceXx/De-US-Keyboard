@@ -46,7 +46,7 @@
 - `/` < `&` (ampersand, and)
 - `?` < `_` (underscore, underbar, low line, low dash)
 - `´` < `=` (equals sign, equality sign)
-- `` ` `` <  +` (plus)
+- `` ` `` <  `+` (plus)
 - `(` < `*` (asterisk, star)
 - `^` < `` ` `` (grave, backtick, backquote)
 - `;` < `<` (less-than sign)
