@@ -54,4 +54,4 @@
 - `#` < `\` (backslash)
 - `'` < `|` (pipe, vertical bar)
 
-## Thanks to https://github.com/sk22/de-us-cheat-sheet
+## Original Source by https://github.com/sk22/de-us-cheat-sheet
